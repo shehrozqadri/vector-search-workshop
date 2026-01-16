@@ -35,7 +35,7 @@ We use Python to prepare our data and configure the database.
 
 Navigate to the scripts folder:
 
-cd /Search Demo Files/
+cd backend_scripts
 Install Python Tools:
 
 pip install -r requirements.txt
