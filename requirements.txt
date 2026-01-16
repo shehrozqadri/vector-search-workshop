@@ -1,0 +1,6 @@
+pymongo
+langchain
+langchain-community
+langchain-voyageai
+langchain-groq
+pymupdf
