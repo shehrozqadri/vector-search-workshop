@@ -25,7 +25,7 @@ export async function POST(req) {
     });
 
     // 2. Setup Retriever & Model
-    const retriever = vectorStore.asRetriever(3);
+    const retriever = vectorStore.asRetriever(10);
     
     const model = new ChatGroq({
       apiKey: process.env.GROQ_API_KEY,
