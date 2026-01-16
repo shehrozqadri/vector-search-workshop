@@ -1,0 +1,10 @@
+{
+  "fields": [
+    {
+      "numDimensions": 1024,
+      "path": "plot_embeddings_voyage",
+      "similarity": "cosine",
+      "type": "vector"
+    }
+  ]
+}
