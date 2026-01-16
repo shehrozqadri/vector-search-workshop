@@ -4,3 +4,4 @@ langchain-community
 langchain-voyageai
 langchain-groq
 pymupdf
+voyageai
